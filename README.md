@@ -18,7 +18,7 @@ To get help, run this command line:
 	or
 	python get_data_dir.py --help
 
-------------------------------
+
 Configuration
 ------------------------------
 You have two ways to define which directory to grab the files from, and where to save the files to:
@@ -41,7 +41,7 @@ Things you can only specify via the command line:
 	-h or --help: brings up this README page
 	-v or --verbose: additional processing messages
 
-------------------------------
+
 Command Line Arguments
 ------------------------------
 -u or --username
@@ -55,7 +55,7 @@ Command Line Arguments
 Example:
 	python get_data_dir.py -s https://adcs-adni.iadcs.ucsd.edu/docs/data1 -v -r
 
-------------------------------
+
 CONF FILE
 ------------------------------
 File name: conf.json
